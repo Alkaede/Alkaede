@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **React or even dogs!**
 
-- ⚡ Fun fact **I recently got into MTG, so I have been having fun making new decks to play in the Commander format**
+- ⚡ Fun fact **I recently got into MTG, and I have been having fun making new decks to play in the Commander format**
 
 
 <h3 align="left">Languages and Tools:</h3>
