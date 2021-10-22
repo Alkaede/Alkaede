@@ -24,6 +24,6 @@
 
 <h3>Reach out!</h3>
 
-[<img align="left" style="margin-left: 1.5rem" alt="Andrew | LinkedIn" width="32px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
+[<img align="left" style="margin-left: 1.5rem" alt="Andrew | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/andrew-castillo-9b69a4140/
