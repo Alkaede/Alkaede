@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **TypeScript, and React Native**
 
-- 💬 Ask me about **how I some how go through an immersive 1 year bootcamp**
+- 💬 Ask me about **how I some how got through an immersive 1 year bootcamp**
 
 - ⚡ Fun fact **I recently got into MTG, and I have been having fun making new decks to play in the Commander format**
 
