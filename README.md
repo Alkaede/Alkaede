@@ -16,8 +16,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-- 🌱 I’m currently learning **TypeScript, and React Native**
-
 - 💬 Ask me about **how I some how got through an immersive 1 year bootcamp**
 
 - ⚡ Fun fact **I recently got into MTG, and I have been having fun making new decks to play in the Commander format**
