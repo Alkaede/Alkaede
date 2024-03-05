@@ -16,12 +16,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
-- 💬 Ask me about **how I got through an immersive 1 year bootcamp**
+**I recently got into MTG, and I have been having fun making new decks to play in the Commander format or creating projects based on my new found hobby**
 
-- ⚡ Fun fact **I recently got into MTG, and I have been having fun making new decks to play in the Commander format**
 
-<h3>Reach out!</h3>
-
-[<img align="left" style="margin-left: 1.5rem" alt="Andrew | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/andrew-castillo-9b69a4140/
